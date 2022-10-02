@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/drawable/background_btn.xml" value="0.204" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/drawable/background_main.xml" value="0.16" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/drawable/background_rectangulo.xml" value="0.16" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/drawable/background_splashscreen.xml" value="0.204" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/drawable/carrito.xml" value="0.204" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/drawable/circulo_icono.xml" value="0.204" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/drawable/edittext_blanco.xml" value="0.204" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/drawable/ic_baseline_add_a_photo_24.xml" value="0.207" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/drawable/ic_baseline_fingerprint_24.xml" value="0.204" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.204" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.204" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.204" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/drawable/ic_carrito2.xml" value="0.207" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/drawable/ic_chef.xml" value="0.204" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/drawable/ic_dj.xml" value="0.204" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/drawable/ic_finger_print_icon.xml" value="0.204" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/drawable/ic_id_card.xml" value="0.204" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/drawable/ic_launcher_background.xml" value="0.204" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/drawable/ic_logout.xml" value="0.204" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/drawable/ic_logout50.xml" value="0.207" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/drawable/ic_menu.xml" value="0.207" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/drawable/ic_profile3.xml" value="0.207" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/drawable/rectangulo.xml" value="0.204" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/font/roboto.xml" value="0.23020833333333332" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/layout/activity_chef.xml" value="0.20224719101123595" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/layout/activity_dj.xml" value="0.1859375" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/layout/activity_menu.xml" value="0.125" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/layout/activity_pedido.xml" value="0.22" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/layout/activity_perfil.xml" value="0.4759259259259259" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/layout/activity_registro.xml" value="0.25" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/layout/activity_usuario.xml" value="0.2" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/layout/vista_chef.xml" value="0.25" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/layout/vista_dj.xml" value="0.33" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/layout/vista_mascota.xml" value="0.2" />
+        <entry key="..\:/Users/Fabricio/Documents/Proyecto/EasyEvents/app/src/main/res/layout/vista_menu.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

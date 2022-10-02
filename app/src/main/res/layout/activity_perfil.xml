@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo"
+    tools:context=".activity.PerfilActivity">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/foto_perfil"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+
+        android:src="@drawable/ic_baseline_person_outline_24"
+        app:civ_border_color="#FFFF"
+        app:civ_border_width="2dp" />
+
+    <ImageView
+        android:id="@+id/iv_add_foto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/foto_perfil"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="108dp"
+        android:layout_marginEnd="260dp"
+
+        app:srcCompat="@drawable/ic_baseline_add_a_photo_24" />
+
+    <ImageView
+        android:id="@+id/iv_borrar_foto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/foto_perfil"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="108dp"
+        android:layout_marginEnd="130dp"
+
+        app:srcCompat="@drawable/ic_no_photography_24" />
+
+    <EditText
+        android:id="@+id/et_nombre_perfil"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/foto_perfil"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="#30ffffff"
+        android:drawableLeft="@drawable/ic_baseline_person_outline_24"
+        android:drawablePadding="20dp"
+        android:fontFamily="@font/roboto"
+        android:hint="Nombre"
+        android:padding="20dp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white" />
+
+    <EditText
+        android:id="@+id/et_ci_perfil"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et_nombre_perfil"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="#30ffffff"
+        android:drawableLeft="@drawable/ic_baseline_fingerprint_24"
+        android:drawablePadding="20dp"
+        android:fontFamily="@font/roboto"
+        android:hint="C.I."
+        android:padding="20dp"
+        android:textColor="@color/white"
+        android:inputType="number"
+        android:textColorHint="@color/white" />
+
+    <EditText
+        android:id="@+id/et_direccion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et_ci_perfil"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="#30ffffff"
+        android:drawableLeft="@drawable/ic_baseline_person_pin_circle_24"
+        android:drawablePadding="20dp"
+        android:fontFamily="@font/roboto"
+        android:hint="Dirección"
+        android:padding="20dp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white" />
+
+    <EditText
+        android:id="@+id/et_telefono"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et_direccion"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="#30ffffff"
+        android:drawableLeft="@drawable/ic_baseline_phone_android_24"
+        android:drawablePadding="20dp"
+        android:fontFamily="@font/roboto"
+        android:hint="Telefono"
+        android:inputType="phone"
+        android:padding="20dp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white" />
+
+    <Button
+        android:id="@+id/btn_actualizar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/et_telefono"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:background="@color/principal_morado"
+        android:fontFamily="@font/roboto"
+        android:text="Actualizar" />
+
+
+</RelativeLayout>
